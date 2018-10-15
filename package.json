@@ -1,0 +1,14 @@
+{
+  "name": "fieldin-mock-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "faker": "^4.1.0",
+    "json-server": "^0.12.1",
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.5"
+  }
+}
